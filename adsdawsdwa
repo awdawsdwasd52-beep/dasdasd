@@ -1,1 +1,234 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local q={"\119\084\043\079\115\056\074\118\074\069\061\061","\052\052\098\076\078\051\099\068\067\052\117\075\115\084\099\051\086\071\081\061","\051\112\072\098\115\112\051\122\083\056\043\118\074\112\051\088\074\112\051\071\083\113\061\061";"\071\087\073\073\048\047\087\077","\074\048\116\104\081\048\054\107","\078\089\061\061";"\081\080\057\057\115\089\061\061";"\086\112\109\057\102\084\054\079\115\111\118\108\102\104\061\061","\115\109\052\090\080\051\112\111\065\076\083\061","\115\077\074\107\067\073\068\065\119\055\117\104\048\056\110\112","\081\110\084\073\105\052\081\075\047\088\104\048\070\089\061\061";"\081\088\100\072\070\069\061\061","\086\097\083\061","\043\080\116\122\078\097\102\073\052\120\051\048\052\112\074\100\113\110\052\061","\076\066\070\113\087\104\061\061";"\048\112\074\110\055\120\057\122\074\120\052\085\090\051\057\098\074\113\061\061","\121\112\080\080\106\120\119\080","\080\066\076\074\104\069\061\061";"\084\084\079\116\119\086\065\115\055\050\082\057\056\106\121\088\084\108\111\088\053\104\061\061";"\102\080\072\098\102\113\061\061";"\066\057\066\076\050\083\047\083\070\113\061\061","\055\080\104\110\119\056\110\050\054\048\074\085\043\071\043\084\053\077\056\061";"";"\113\055\043\120\074\111\079\116\113\111\118\083\051\088\117\066","\119\118\054\103\055\071\043\118\081\080\109\071\102\113\061\061";"\090\072\051\085\102\097\072\050\090\112\065\079\067\051\102\097\051\069\061\061","\078\051\072\078\074\055\057\119\051\071\117\122\043\071\109\120\051\113\061\061";"\102\111\085\075\086\120\083\061","\073\110\109\098\102\073\043\057\074\112\072\087\086\112\052\061","\051\071\076\110\102\072\070\101";"\053\049\073\083\103\119\100\097\066\121\087\111\066\082\078\072\067\069\117\119\116\049\119\053\051\056\055\077\112\120\070\110\119\118\068\084\116\067\111\113\108\082\088\049\120\122\072\053\115\104\076\055\068\057\084\057\113\107\078\073\103\102\107\115\050\122\107\075\085\088\054\049","\102\120\054\110\081\089\061\061","\081\071\102\100\102\118\043\053\081\051\118\065\051\080\043\065\074\111\121\061";"\100\075\103\112\074\068\056\043\078\049\077\053\076\089\122\105";"\067\071\065\104\054\111\043\071\113\071\114\116\055\072\102\071\043\104\061\061","\086\048\072\079\081\080\089\061","\115\120\043\122\067\048\116\100","\078\048\072\050\055\080\116\117\090\097\102\077\054\111\116\120\074\113\061\061","\106\089\061\061";"\114\084\065\082\102\067\085\065\119\112\065\084\083\079\084\089\122\120\121\107\087\056\098\110\054\055\066\057\101\069\080\080\057\105\110\117\119\097\097\052\086\089\105\088\105\085\080\117\054\057\083\102\112\080\074\066";"\090\048\085\048\051\111\056\110\115\112\117\077\053\112\074\097\051\073\056\061","\070\051\120\118\111\087\086\112\070\113\068\118\087\089\105\061","\102\069\085\055\052\101\113\082\070\077\056\061";"\074\073\099\116\115\052\109\110\043\120\054\081\119\048\052\079\086\120\083\061";"\074\112\109\108\074\048\110\087\102\073\083\061";"\115\111\051\098\086\120\102\118";"\086\097\056\061","\115\056\074\081\074\048\116\099\119\097\069\122\054\055\118\099\115\069\061\061","\052\080\051\079\113\080\109\122\102\113\061\061","\081\080\109\108\081\080\072\079";"\073\110\109\100\081\104\061\061";"\072\071\086\056\086\049\077\111";"\073\110\109\099\086\111\043\118\090\069\061\061","\115\112\054\057\086\112\104\061";"\073\110\109\065\102\048\121\061";"\102\051\052\122\090\084\099\075\051\079\072\048";"\043\080\051\079\052\080\051\122\074\111\118\088\102\113\061\061","\074\071\054\103\067\048\098\113\054\079\054\118\067\080\098\118","\078\087\089\118\102\049\114\099\078\089\061\061";"\067\073\068\057\067\073\117\077";"\053\110\117\048\054\073\051\111\054\079\102\120\043\048\118\077","\054\121\100\120\110\053\113\061","\053\111\113\116\051\112\109\104\067\071\051\102\102\073\072\112\090\056\056\061";"\102\120\057\112\054\120\089\121\067\048\102\104\078\052\074\112\048\069\061\061","\081\100\118\079\102\113\061\061";"\054\077\099\106\080\056\090\103\053\074\121\087\074\074\073\054\113\097\113\073\071\097\114\106","\086\048\072\079\067\069\061\061","\056\117\086\048\120\049\068\074\043\114\069\047\099\098\076\075","\087\077\074\107\054\047\075\101\118\053\081\061","\102\080\110\057\074\112\054\114";"\043\120\043\066\052\112\113\061";"\074\112\109\077\074\084\117\099\086\111\115\061";"\102\073\117\122\086\120\083\061","\090\052\065\122\086\080\117\111\067\071\079\122\113\051\051\048\115\088\089\061";"\074\084\118\104\102\113\061\061","\097\121\067\109\070\056\104\061","\051\073\054\118\115\071\109\120\086\100\054\084\081\048\110\118\052\112\072\077\115\079\072\077\090\048\116\088";"\119\097\072\068\053\071\053\116\053\077\117\081\048\072\051\107\086\113\061\061","\043\079\118\083\074\110\072\104\115\084\053\079\115\110\054\120\067\088\071\061","\086\112\051\108","\068\052\100\098\069\086\049\121\084\101\067\049\080\111\121\061";"\115\120\081\085\055\110\102\078\074\088\043\119\086\110\057\067\102\048\079\061","\075\052\043\079\121\099\084\085\090\071\108\057\072\101\077\102\108\071\078\118\085\085\056\056\069\110\076\111\055\088\115\101\055\057\077\048\115\122\088\049\050\073\053\120\119\100\119\043\087\082\052\071\082\102\104\068\104\067\067\057\055\108\054\098\121\047\086\104\082\103\077\111\082\057\116\120\069\121\097\111\105\087\111\107\048\072\056\061";"\115\080\051\079\086\048\051\079\081\073\043\057\081\111\085\118","\115\111\072\108\102\112\109\098","\119\118\074\116\074\112\054\065\051\111\065\061","\115\112\072\099\115\100\053\061","\074\112\072\087\086\112\052\061","\081\079\116\078\102\088\118\103\102\052\043\073\074\110\051\049";"\053\048\043\078\067\056\065\104\090\084\053\077\115\077\117\073\051\069\061\061"}for N,c in ipairs({{-358505+358506;-339355-(-339445)},{634897-634896,-292264+292348};{959934+-959849,274660+-274570}})do while c[572990+-572989]<c[-470620-(-470622)]do q[c[789354+-789353]],q[c[-507479-(-507481)]],c[-672924-(-672925)],c[-610176+610178]=q[c[924809-924807]],q[c[1023912+-1023911]],c[639077+-639076]+(715960+-715959),c[347315-347313]-(375372-375371)end end local function N(N)return q[N-(308477+-280041)]end do local N=table.concat local c=string.sub local w=type local D=q local A=math.floor local k=table.insert local h={D=528186+-528185,Q=-756223-(-756247),H=-942676-(-942681);j=895260-895229,["\057"]=306564-306531;["\054"]=880800-880787,L=-399453-(-399464),["\056"]=-682460+682464;k=780266-780223,c=762553+-762512;p=-289039-(-289045),I=947186-947163,["\053"]=333372-333360;V=-923637-(-923664),U=1046387+-1046338;X=-744540-(-744575);W=-1023658+1023692;K=-673569+673616,x=-358607+358662,b=195641+-195596;["\049"]=-581139-(-581141);A=-534713+534757,B=-869774+869816;w=980616+-980598;M=-1040906-(-1040957),O=-498330+498382;T=451228-451221;e=642258+-642248,d=560436+-560397;m=374835-374774,o=574057+-574019,g=-1044200-(-1044215);["\051"]=634845-634824;S=-523099+523107;["\052"]=482132+-482112,s=852382-852354,h=722958-722910,["\047"]=-102460-(-102522);E=-500047-(-500047);f=-413234-(-413259),q=-294591+294607,G=446166+-446130,["\043"]=-424436-(-424453),r=-169207+169247;P=-1035446+1035500;z=137768-137718;a=-786633+786636;Y=-666166+666198,N=-892750-(-892764),i=-542741+542801;F=40329+-40266,["\055"]=422723-422704;Z=-980945+980975,v=-565196-(-565233);C=749587-749561;["\050"]=-134904-(-134962);t=966615+-966558,u=649881+-649872;R=349017-348958;["\048"]=755982+-755960,J=129167-129138;l=973066+-973020;y=-302715+302771,n=-757726-(-757779)}local Z=string.len local L=string.char for q=56527+-56526,#D,-427325+427326 do local g=D[q]if w(g)=="\115\116\114\105\110\103"then local w=Z(g)local U={}local y=61779+-61778 local X=967113-967113 local G=489606-489606 while y<=w do local q=c(g,y,y)local N=h[q]if N then X=X+N*(-177049+177113)^((-856045+856048)-G)G=G+(-800510-(-800511))if G==-911225+911229 then G=374292+-374292 local q=A(X/(-1038373+1103909))local N=A((X%(326745+-261209))/(219979-219723))local c=X%(718111+-717855)k(U,L(q,N,c))X=583764-583764 end elseif q=="\061"then k(U,L(A(X/(941716-876180))))if y>=w or c(g,y+(-593764-(-593765)),y+(-299300+299301))~="\061"then k(U,L(A((X%(464658+-399122))/(1021675+-1021419))))end break end y=y+(-622744-(-622745))end D[q]=N(U)end end end return(function(q,w,D,A,k,h,Z,g,e,V,P,G,L,n,y,Y,X,U,c,J,v)y,V,v,n,c,e,Y,g,G,P,J,X,L,U=-799928+799928,function(q,N)local w=X(N)local D=function(D,A)return c(q,{D;A},N,w)end return D end,function(q,N)local w=X(N)local D=function(D,A,k,h,Z)return c(q,{D;A;k;h;Z},N,w)end return D end,function(q,N)local w=X(N)local D=function(...)return c(q,{...},N,w)end return D end,function(c,D,A,k)local M,j,a,g,cQ,F,G,qQ,NQ,s,n,E,i,S,DQ,z,H,t,O,B,C,W,x,u,o,wQ,R,l,y,AQ,d,p,K,T,Q,r,b,m,I,f,X,Z while c do if c<434110+7690979 then if c<581485+3648127 then if c<1874007-(-436571)then if c<921085-(-663393)then if c<963327-(-88725)then if c<379723+132184 then if c<528272+-174817 then if c<217198-(-19870)then X=-752582+752583 y=L[A[572630+-572627]]g=y~=X c=g and-667407+16612570 or 218543+7685509 else Z=N(242208+-213733)c=q[Z]g=L[A[745634+-745630]]C=N(347397+-318913)G=N(278189-249687)o=J(205286+6915244,{})X=q[G]H=q[C]C={H(o)}x={w(C)}H=807121+-807119 n=x[H]G=X(n)X=N(234137+-205648)y=g(G,X)g={y()}Z=c(w(g))y=L[A[-244738+244743]]c=y and-900171+2455203 or 9838274-(-629453)g=Z Z=y end else c=i and 14943978-(-169375)or 11640018-740722 end else if c<12277-(-779854)then X=Y(7851116-(-759376),{A[97399+-97398]})g=D[-850481+850482]Z=N(155608+-127124)c=q[Z]G={c(X)}y=G[499549+-499547]Z=G[489747+-489746]X=Z G=not X Z=G c=G and 14410112-221133 or-896198+16992862 else qQ=c S=Q c=Q and 3242698-(-904526)or 3535930-43197 end end else if c<-841317+2240472 then if c<811118+343372 then f=N(218520+-190070)B=936395+31224787169025 l=q[f]W=N(602617+-574176)u=L[y]I=-602206+12271501461168 E=34823248000707-(-329876)M=4485749127249-389161 Q=16668920810873-1027879 R=L[G]s=R(W,E)f=u[s]O=l[f]W=N(334128+-305679)l=N(522377-493898)u=L[y]Z={}R=L[G]d=N(388333+-359841)E=32579338370021-622755 m=33411012031765-(-673713)s=R(W,E)f=u[s]l=O[l]s=L[y]W=L[G]E=W(d,M)R=s[E]W=L[y]M=N(-88584-(-117048))E=L[G]d=E(M,m)s=W[d]E=L[y]m=N(270691+-242246)d=L[G]M=d(m,I)I=N(935921-907451)W=E[M]d=L[y]M=L[G]m=M(I,B)E=d[m]M=L[y]c=q[N(791491+-763023)]B=N(608357+-579918)m=L[G]I=m(B,Q)d=M[I]M=891884+-891879 u={[R]=s;[W]=E,[d]=M}l=l(O,f,u)else G,H=n(X,G)c=G and-171666+8223468 or 571235+14409191 end else if c<2507051-1026105 then c=f O=not l c=O and 722960-(-344928)or-134272+6408573 else X=L[A[-840297-(-840303)]]y=X==g Z=y c=11334343-866616 end end end else if c<2898853-815312 then if c<1764214-(-192797)then if c<15486+1805371 then E=nil c=4721985-509303 W=nil R=nil f=nil s=nil else u=u+s W=not T f=u<=R f=W and f W=u>=R W=T and W f=W or f W=-765545+15281186 c=f and W f=4099313-(-628218)c=c or f end else if c<2934306-910860 then c=q[N(20074+8389)]Z={y}else R=-255701-(-255707)c=L[H]a=765763-765762 j=c(a,R)c=N(173286-144843)q[c]=j R=N(-444530-(-472973))a=q[R]R=-846733+846735 c=a>R c=c and 8822658-365860 or 465512+10707062 end end else if c<767975+1510549 then if c<-889135+3109813 then W=J(841459+7851564,{y;G;O})f=nil R=N(-717373+745857)u=q[R]E={u(W)}s=E[522418-522416]R=E[761344+-761343]c=R and 9058081-(-423693)or-52894+12081337 else c=974438+501068 l=b end else if c<-65860+2368080 then O=N(-556606+585124)r=N(-777119-(-805601))b=q[O]o=x l=L[A[-714028-(-714030)]]c=15905791-(-384319)f=L[A[-870007-(-870010)]]j=949678+24776779558755 u=f(r,j)j=N(667739+-639241)O=l[u]i=b[O]f=L[A[171399+-171397]]u=L[A[940275+-940272]]a=32660595451796-273452 r=u(j,a)l=f[r]f=N(842579-814113)f=o[f]O={f(o,l)}o=nil b=i(n,w(O))else s=not R r=r+a Z=r<=j Z=s and Z s=r>=j s=R and s Z=s or Z s=6043282-116923 c=Z and s Z=13362350-(-349306)c=c or Z end end end end else if c<-346184+3558097 then if c<220483+2666847 then if c<3587263-849028 then if c<-567289+3166406 then if c<-89548+2456764 then Z=t c=K c=15248738-(-615938)else Z=N(604594-576151)c=q[Z]g=N(563482-535005)Z=q[g]g=N(5242-(-23235))q[g]=c g=N(-989036+1017479)c=254979+8590037 q[g]=Z g=L[A[153290+-153289]]y=g()end else C=N(484840+-456365)c=7381447-(-648556)H=N(567040+-538565)x=q[H]H=x(g)x=q[C]C=x(y)n=H<C X=n end else if c<2884818-12071 then g=U()L[g]=D[518992-518991]Z=N(351141+-322651)y=D[796402-796400]c=q[Z]n={c(y)}Z=n[214867-214866]X=n[-506545-(-506547)]c=198853+1120686 G=n[380607-380604]n=Z else Z=y c=6281452-729806 end end else if c<2056691-(-1014887)then if c<-510974+3523259 then M=nil m=nil c=852980-(-736431)else o,i=H(C,o)c=o and 4966684-22364 or 976491+6115322 end else if c<2922018-(-176020)then o=U()b=186118-186053 L[o]=Z c=L[H]i=921302+-921299 Z=c(i,b)a=N(-809913+838415)l=N(-878310-(-906794))i=U()c=811851+-811851 L[i]=Z Z=q[l]b=c f=V(13127715-66800,{})c=-331284+331284 l={Z(f)}Z=676354-676352 O=c c={w(l)}l=c c=l[Z]Z=N(54251-25776)f=c c=q[Z]u=L[X]j=q[a]a=j(f)j=N(-478741+507230)r=u(a,j)u={r()}Z=c(w(u))u=U()c=3295525-992449 L[u]=Z r=L[i]j=r Z=-419336-(-419337)r=-292024+292025 a=r r=-404176-(-404176)R=a<r r=Z-a else M=N(833620+-805182)d=q[M]I={d(E)}m=I[655787+-655785]M=I[445689+-445688]c=M and 4151096-(-127569)or-1036861+4046535 end end end else if c<634713+3195655 then if c<960362+2539932 then if c<3178841-(-289676)then c=q[N(-537770+566289)]Z={}else c=qQ c=S and 11908241-144958 or-476688+11874273 end else if c<3185254-(-504892)then c=L[A[-231157-(-231164)]]c=c and 7229631-885664 or 258183+14494512 else y=D[476817-476815]c=L[A[528677-528676]]g=D[-869548-(-869549)]X=c c=X[y]c=c and-957486+7792271 or 947540+8142606 end end else if c<862339+3216555 then if c<4469403-545255 then c=J(4124532-(-115684),{G})j={c()}c=q[N(-516885+545363)]Z={w(j)}else i=i+b C=i<=o l=not O C=l and C l=i>=o l=O and l C=l or C l=7120523-291953 c=C and l C=-350590+11912907 c=c or C end else if c<3858550-(-306164)then c=-27020+3519753 wQ=L[y]DQ=N(711413-682960)AQ=-471415+22891818605338 NQ=L[G]cQ=NQ(DQ,AQ)F=wQ[cQ]z=Q~=F S=z else H=nil O=e(O)n=e(n)y=e(y)G=e(G)X=nil b=nil o=nil C=nil x=e(x)c=q[N(-86034-(-114480))]l=nil Z={}i=nil end end end end end else if c<5598496-(-612396)then if c<-958198+6132278 then if c<-255773+4742796 then if c<-593086+4921847 then if c<4717358-437148 then if c<4427308-160736 then c=9363561-518545 else I=N(967852+-939368)d=q[I]Q={d(M)}c=3282722-273048 B=Q[980297-980295]I=Q[-518633+518634]B=nil I=nil end else y=L[A[-311465+311467]]X=L[A[-783257-(-783260)]]c=14897047-(-842695)g=y==X Z=g end else if c<5273082-894183 then c=true c=c and 108217+16212106 or 3055655-(-865633)else Q=f[B]qQ=N(-199684-(-228189))d=I NQ=N(535497-506973)S=q[qQ]cQ=68732+4506114931638 qQ=S(Q)z=L[y]F=L[G]wQ=F(NQ,cQ)S=z[wQ]p=qQ==S c=p and 508534+10934133 or 189738-(-747429)end end else if c<4496500-(-111750)then if c<-1011854+5558837 then l=N(999072+-970554)O=q[l]l=N(-248175-(-276700))b=O[l]o=b c=10572036-149103 else I=543747+-543746 K=m[I]c=344286+15493923 t=K end else if c<-1047586+5893032 then u=#l R=-221850+221850 c=8812092-353214 f=u==R else b=i==g x=o c=b and 187508+15518831 or-367032+14336463 end end end else if c<-85776+6124233 then if c<-361088+5974067 then if c<-398409+5868608 then c=q[N(-858378+886869)]Z={}else b=N(-837409+865915)C=L[A[-759507-(-759509)]]c={}O=632464+7381631952605 n=c o=L[A[-421196-(-421199)]]i=o(b,O)G=Z H=C[i]C=N(630751-602251)C=G[C]C={C(G,H)}x=C[80247+-80244]c=C[-441295-(-441296)]Z=C[-809337-(-809339)]C=Z H=c c=-590860+16880970 end else if c<5568834-(-290474)then t=L[y]c=t and-729221+9085059 or-1036198+16900874 Z=t else s=U()W=-453799+453899 T=N(-860770+889267)L[s]=r Z=q[T]T=N(-419103-(-447618))c=Z[T]T=-401346-(-401347)S=417117-407117 Z=c(T,W)E=-1035391+1035646 M=-777192+777193 W=508787+-508787 T=U()L[T]=Z c=L[H]Z=c(W,E)W=U()E=532701-532700 L[W]=Z c=L[H]d=L[T]Z=c(E,d)E=U()L[E]=Z m=-351020-(-351022)Z=L[H]d=Z(M,m)Z=1013625-1013624 c=d==Z d=U()m=N(-70583-(-99109))L[d]=c p=2519+-2519 I=N(-1001938+1030440)Z=N(781238+-752749)c=N(-797526-(-825988))K=q[I]B=L[H]Q={B(p,S)}I=K(w(Q))K=N(342317+-313791)c=f[c]t=I..K M=m..t m=N(-356787-(-385271))c=c(f,Z,M)M=U()L[M]=c Z=q[m]t=v(6379817-(-744626),{H,s,i;X,y,u;d;M,T,E,W,o})m={Z(t)}c={w(m)}m=c c=L[d]c=c and 366286+5449771 or 363173+14880089 end end else if c<687379+5425089 then if c<1047592+5011985 then c=3176765-855028 Q=935088-935086 B=m[Q]Q=L[M]I=B==Q t=I else o=-258889+259144 c=L[A[750058+-750057]]C=838960+-838960 H=c(C,o)y=X g[y]=H c=282292+10887493 y=nil end else if c<6049332-(-73570)then L[y]=r c=L[y]c=c and-31363+12491613 or 9550525-(-668073)else Z=N(329634+-301131)c=q[Z]g=N(-1006140+1034663)Z=c(g)Z={}c=q[N(874882+-846411)]end end end end else if c<732321+6398753 then if c<499339+6331743 then if c<-837613+7385102 then if c<838422+5494625 then u=P(13175993-393389,{n})l=N(-588547+617031)O=q[l]R={O(u)}f=R[-718614-(-718616)]O=U()l=R[-942041-(-942042)]L[O]=f u=c c=l and-226969+13839700 or 16616165-581506 f=l else g=N(473532-445029)X=-842969-(-842969)c=q[g]y=L[A[-74858+74866]]g=c(y,X)c=-269949+15022644 end else if c<461751+6232775 then c=830339+10632222 else a=N(33229-4762)j=q[a]a=N(780723+-752228)C=i r=j[a]j=r(g,C)r=L[A[111768-111762]]a=r()C=nil u=j+a f=u+x u=392156-391900 a=-222965-(-222966)l=f%u u=X[y]x=l j=x+a r=G[j]f=u..r c=4446381-514016 X[y]=f end end else if c<-981792+8093963 then if c<6663463-(-347203)then c=-248998+2232137 else c=q[N(-671769+700213)]x=false Z={x}end else if c<7001222-(-120925)then X=205455+7447756 Z=-451002+4146438 y=N(418246+-389742)g=y^X c=Z-g Z=N(-973584+1002070)g=c c=Z/g Z={c}c=q[N(181183-152690)]else G=583520-583519 y=L[A[-1041991-(-1041992)]]n=-189162-(-189164)X=y(G,n)y=240956-240955 g=X==y c=g and 15361060-(-378682)or 5272909-987037 Z=g end end end else if c<8492562-509333 then if c<8341081-601750 then if c<270532+7320083 then H=N(857915-829425)c=-144386+3209797 x=q[H]i={x(n)}o=i[-321745+321748]C=i[478095-478093]H=i[830111+-830110]else M=N(1019544-991026)p=24186740835443-(-599947)d=q[M]m=L[y]I=L[G]Q=N(1050980-1022538)B=I(Q,p)M=m[B]E=d[M]M=Y(210776+14663118,{})d=E(W,M)I=N(887932-859479)B=688933+12043386393283 c=881124+12103881 d=L[y]M=L[G]m=M(I,B)E=d[m]M=N(138021+-109531)d=q[M]B={d(W)}M=B[6800-6799]m=B[56192+-56190]I=B[-175516+175519]end else if c<8056074-184492 then Z={}c=q[N(-699078-(-727590))]else y=L[A[433243+-433240]]X=960050+-959895 g=y*X c=955890+-777445 y=625491-625234 Z=g%y L[A[879040+-879037]]=Z end end else if c<7363970-(-664745)then if c<8528948-521271 then c=true L[A[-779272-(-779273)]]=c Z={}c=q[N(136664-108208)]else c=q[N(-722063-(-750520))]Z={Z}end else if c<486202+7544212 then c=G Z=X c=7539312-(-484295)else C=N(-742828-(-771312))x=G c=U()L[c]=H H=c c=q[C]i=P(13642872-(-890456),{A[-562112-(-562113)];A[838605+-838603];g,H})b={c(i)}o=b[109116+-109114]C=b[-137976-(-137977)]c=C and-111658+10096774 or 742626+-385940 i=C end end end end end end else if c<13464852-471671 then if c<-666390+10939359 then if c<281822+8416390 then if c<444604+8061405 then if c<-612580+9071358 then if c<-980874+9405012 then if c<9042296-683718 then Q=-702398+702399 K=c B=m[Q]Q=false I=B==Q c=I and 152108+5895322 or-869580+3191317 t=I else g=L[A[337813+-337812]]Z=#g g=-895647+895647 c=Z==g c=c and 14030241-(-307875)or-203736+14224662 end else a=N(864803+-836301)c=q[a]s=N(-483138+511615)R=q[s]a=c(R)c=N(-1030650+1059093)q[c]=a c=-781844+7433213 end else if c<765165+7711083 then u=-933512-(-933513)c=16717095-756307 R=#l f=X(u,R)u=x(l,f)R=L[O]f=nil W=-55346-(-55347)T=u-W s=H(T)R[u]=s u=nil else x=N(-364644-(-393119))G=c n=q[x]x=n(y)c=x and 306947+2382307 or 8987053-957050 X=x end end else if c<936209+7705254 then if c<806972+7801236 then p=Q c=12639646-(-325964)else y=true X=N(-981649+1010170)Z=N(536660-508210)c=q[Z]X=c[X]g=L[A[-215269+215270]]Z={X(c,g,y)}c=q[N(-363802-(-392296))]Z={w(Z)}end else if c<9699679-1008082 then c=L[A[-908052+908062]]y=L[A[664713-664702]]g[c]=y c=L[A[-54168-(-54180)]]y={c(g)}Z={w(y)}c=q[N(8889-(-19551))]else Z=N(-734016-(-762466))c=q[Z]y=L[A[-297607+297608]]n=N(-911323-(-939795))Z=N(758456-729969)x=33239411813714-28892 Z=c[Z]X=L[A[883390-883388]]G=X(n,x)g=y[G]Z=Z(c,g)g=L[A[123425+-123422]]y=N(911648+-883193)y=Z[y]c={y(Z,g)}Z={w(c)}c=q[N(-140949-(-169457))]end end end else if c<10460969-952033 then if c<8489488-(-445894)then if c<8083915-(-718087)then c=false Z={c}c=q[N(715325+-686803)]else c=true c=c and 273781+2305488 or 215889+3108459 end else if c<8875009-(-529338)then c={}n=-462509+35184372551341 L[A[184580-184578]]=c C=N(-530547+559014)Z=L[A[646118+-646115]]G=Z c=-310776+4243141 Z=y%n H=713687+-713432 L[A[261195+-261191]]=Z x=y%H H=564159-564157 n=x+H L[A[-161676-(-161681)]]=n H=q[C]C=N(-874470+902980)x=H[C]C=-760163-(-760164)H=x(g)o=H x=N(94576+-66123)i=832543+-832542 b=i X[y]=x x=-606832-(-607029)i=-841841-(-841841)O=b<i i=C-b else u=s f=u c=-810446+12838889 end end else if c<468977+9515878 then if c<-367833+10226585 then x=nil G=e(G)n=e(n)x=N(735717+-707220)G=U()u=e(u)H=e(H)o=e(o)i=e(i)O=nil o=N(-869006+897473)O=U()X=e(X)X=nil b=nil y=e(y)y=nil f=nil l=nil C=nil L[G]=y y=U()L[y]=X n=q[x]x=N(159020+-130562)X=n[x]n=U()L[n]=X H=N(161325+-132828)c=898277+1050949 C=N(-494930-(-523448))b={}x=q[H]H=N(813909-785394)X=x[H]H=q[C]i=U()C=N(-341322-(-369798))x=H[C]C=q[o]o=N(450483+-422046)H=C[o]C=286522-286522 o=U()L[o]=C C=-207414+207416 L[i]=C C={}L[O]=b b=672154+-672154 f=-736327+736328 l={}u=-657154+657410 R=u u=-609903-(-609904)s=u u=824967+-824967 T=s<u u=f-s else R=N(-97725+126172)s=-239569+13171851984838 l=L[y]W=1030074+33938640324097 f=L[G]u=f(R,s)O=l[u]b=o[O]i=H(b,X)f=L[y]u=L[G]s=N(139623-111175)R=u(s,W)l=f[R]O=o[l]l=i b=C(O)f=c c=i and 1512350-36844 or 3156880-883617 end else if c<10798847-765525 then c=-424596-(-781282)i=o else c=true c=4625898-704610 end end end end else if c<11527036-(-135684)then if c<10728368-(-572287)then if c<11535871-514852 then if c<10782071-217199 then if c<11114711-680422 then Z=o c=i c=o and 2703825-(-368932)or 14826152-(-948853)else g=nil L[A[744611+-744606]]=Z c=344467+3260902 end else o=nil c=-279453+1598992 C=nil x=nil H=e(H)end else if c<11876929-704736 then H=not x X=X+n y=X<=G y=H and y H=X>=G H=x and H y=H or y H=146333+5955391 c=y and H y=8738110-91067 c=c or y else R=N(986032-957589)c=q[R]R=N(359633-331156)q[R]=c c=-665133+7316502 end end else if c<11855465-412775 then if c<-137575+11570954 then B=nil Q=nil d=nil c=-771016+13756021 else qQ=N(1014370-985904)F=L[y]qQ=Q[qQ]cQ=N(313652-285179)S=c DQ=16025416009386-(-775804)wQ=L[G]NQ=wQ(cQ,DQ)z=F[NQ]qQ=qQ(Q,z)c=qQ and 98115+12867495 or 7708171-(-804955)p=qQ end else if c<11435184-(-95919)then c=true c=c and 1025324+1048085 or 4364763-(-883822)else c=32962+1950177 x=nil H=nil G=nil end end end else if c<939654+11403156 then if c<-334516+12254932 then if c<-508305+12270156 then m=d(M,m)c=m and 264150+14945041 or 8013452-397394 else F=L[y]wQ=L[G]DQ=-780972+11295784550200 cQ=N(-448276-(-476745))c=684626+10712959 NQ=wQ(cQ,DQ)z=F[NQ]qQ=Q..z S=E..qQ E=S end else if c<572170+11558880 then d=N(-432043+460560)E=q[d]I={E(f)}W={}c=868604+10888220 d=I[964008-964007]m=I[391712-391709]M=I[-778976+778978]else c=199764+5916519 j=b==O r=j end end else if c<315807+12493580 then if c<-882667+13357186 then c=8837821-(-690899)else Z=N(-931292-(-959742))c=q[Z]y=true X=N(917840+-889319)g=L[A[-689677+689678]]X=c[X]Z={X(c,g,y)}Z={w(Z)}c=q[N(409450-380941)]end else if c<12668442-(-306226)then Q=p c=S c=1211842-274675 else I,B=M(m,I)c=I and 3448644-(-1036739)or-655484+16750137 end end end end end else if c<213318+14987666 then if c<-787521+15125014 then if c<13459321-(-450932)then if c<13560020-(-33404)then if c<12560548-(-497305)then if c<13239582-209120 then x=L[A[86164-86162]]i=31718886031584-(-391378)H=L[A[298840-298837]]G=N(286166-257700)G=y[G]o=N(-976556-(-1005055))C=H(o,i)n=x[C]G=G(y,n)c=G and-285743+5837389 or 421267+2453464 Z=G else x=Z H=N(659225-630728)Z=q[H]H=N(1046814-1018299)c=Z[H]H=U()L[H]=c C=N(224052+-195534)Z=q[C]C=N(-195353-(-223833))c=Z[C]O=N(-836591+865109)b=q[O]i=c o=b C=c c=b and 5203028-708279 or 26599+10396334 end else X=2400800-677239 Z=7265946-(-769447)y=N(472814+-444298)g=y^X c=Z-g Z=N(-1013290-(-1041791))g=c c=Z/g Z={c}c=q[N(746240+-717752)]end else if c<14558123-852249 then c=791303+15243356 R=L[O]f=R else j=L[y]c=j and 12664743-421623 or 390498+5725785 r=j end end else if c<31045+14104794 then if c<12975377-(-1004165)then c=-15164+3080575 x=nil i=nil else X=N(-9488-(-38006))y=q[X]X=N(977941-949465)c=q[N(-959399-(-987864))]g=y[X]X=L[A[791149-791148]]y={g(X)}Z={w(y)}end else if c<1047854+13138151 then c=12888450-(-161003)x=L[n]Z=x else c=Z and 688769+8009500 or 12984270-(-15498)end end end else if c<15589184-966206 then if c<13559052-(-956504)then if c<157549+14199521 then X=-726122-(-726187)y=L[A[-405209-(-405211)]]g=y*X y=-867776+26483840429547 Z=g+y g=35184372437834-349002 c=Z%g y=-402969+402970 L[A[-257633+257635]]=c g=L[A[465453+-465450]]c=654935+7249117 Z=g~=y else X=N(-787588-(-816055))c=true H=N(766678-738194)G=U()y=U()g=D L[y]=c Z=q[X]X=N(571320+-542820)c=Z[X]X=U()L[X]=c c=Y(6477445-347528,{})L[G]=c n=U()c=false L[n]=c C=V(-791241+8797321,{n})x=q[H]H=x(C)Z=H c=H and 13834871-(-349796)or 13440921-391468 end else if c<14132777-(-385246)then c=2800393-851167 f=u W=f l[f]=W f=nil else Z=N(-1018639-(-1047089))c=q[Z]y=L[A[-869550+869551]]X=L[A[-341974+341976]]n=N(-689550-(-718046))x=-506460+13845879460747 G=X(n,x)g=y[G]Z=N(-924411+952898)Z=c[Z]Z=Z(c,g)g=L[A[-45100-(-45103)]]X=N(-805171+833678)X=Z[X]y=L[A[-839870-(-839874)]]c={X(Z,g,y)}Z={w(c)}c=q[N(-210183+238635)]end end else if c<15371119-475376 then if c<14687927-(-147244)then X=L[A[-491722-(-491731)]]c={}y=212613+-212612 g=c G=X X=-203813+203814 n=X c=11877156-707371 X=992427-992427 x=n<X X=y-n else y=D[-292293-(-292295)]G=N(-863722-(-892197))g=D[821635+-821634]X=q[G]G=X(g)c=G and 9511131-1028685 or-227835+8251442 Z=G end else if c<-1015820+16089810 then c=false Z={c}c=q[N(340578+-312104)]else c=true Z={c}c=q[N(-673482+702002)]end end end end else if c<16609859-654460 then if c<-702851+16474528 then if c<16703858-1017257 then if c<289019+14937832 then Q=N(-410864+439382)F=1864446703822-570730 z=N(-370434+398894)B=q[Q]p=L[y]c=508930+11247894 E=m S=L[G]qQ=S(z,F)Q=p[qQ]I=B[Q]B=I(W,E)E=nil else K=L[y]t=K c=K and-792705+5353956 or-499028+16337237 end else if c<-1038923+16775550 then b=true Z={b}c=q[N(410748-382294)]else c=Z and-722975+1044611 or 2644345-(-961024)end end else if c<-581127+16439222 then if c<15145730-(-642257)then i=N(141655+-113130)o=q[i]c=-34946+3107703 Z=o else L[y]=t Q=L[E]p=-329222-(-329223)B=Q+p I=m[B]K=b+I I=-634754-(-635010)c=K%I b=c B=L[W]I=O+B B=-260409+260665 c=1046694+15435547 K=I%B O=K end else if c<199527+15694595 then c=16960825-478584 L[y]=Z else X=-371457-(-371489)y=L[A[377287-377284]]g=y%X G=L[A[298924-298920]]o=660027+-660025 H=L[A[91018-91016]]b=-758793+758806 c=-239124+14260050 f=L[A[443705+-443702]]l=f-g f=845894+-845862 O=l/f i=b-O C=o^i x=H/C n=G(x)G=313932+4294653364 X=n%G n=120760-120758 C=-510078+510079 b=586931+-586675 G=n^g y=X/G G=L[A[-658200-(-658204)]]H=y%C C=-358925+4295326221 x=H*C o=361620+-361364 n=G(x)G=L[A[-967660+967664]]x=G(y)H=-421683+487219 X=n+x n=765005-699469 G=X%n x=X-G n=x/H H=-193507-(-193763)X=nil x=G%H g=nil C=G-x H=C/o o=624998-624742 y=nil C=n%o i=n-C o=i/b n=nil i={x,H,C,o}o=nil x=nil C=nil H=nil G=nil L[A[8217+-8216]]=i end end end else if c<16150794-(-12405)then if c<32558+16061110 then if c<-75384+16098505 then R=-563967+563967 u=#l f=u==R c=f and 17079217-652450 or 46496+8412382 else c=u c=f and 2346401-171655 or 3413171-(-799511)end else if c<-596784+16692423 then m=L[y]I=L[G]qQ=24118651173033-314570 Q=N(-719390+747843)B=I(Q,qQ)M=m[B]d=E~=M c=d and-1042567+4145382 or-964953+2554364 else G=not y c=14779638-590659 Z=G end end else if c<16591565-268278 then if c<-335673+16635174 then x=H(C,x)c=x and 473491+1827852 or 8177969-706387 else c=11222081-(-240480)end else if c<15834631-(-614584)then d=N(839662-811179)W={}X=nil s=U()f={}u=U()m=N(-732750+761209)L[u]=f R=V(592872+7817040,{u,o;i;n})x=nil T=N(419824+-391310)f=U()I=nil L[f]=R R={}l=nil L[s]=R R=q[T]M=L[s]E={[d]=M,[m]=I}n=e(n)T=R(W,E)L[y]=T C=nil H=nil C=N(-42267-(-70780))R=v(-619039+4430830,{s,u;O,o;i,f})u=e(u)b=nil i=e(i)s=e(s)O=e(O)L[G]=R f=e(f)o=e(o)n=L[y]o=700461+34070992227788 x=L[G]H=x(C,o)i=-54268+22623023758626 X=n[H]o=N(516151+-487690)n=U()L[n]=X x=L[y]H=L[G]C=H(o,i)X=x[C]R=N(-991215-(-1019666))H=1457478277-(-889793)O=N(380339-351889)x=U()L[x]=X C=1568744711-828951 X={H,C}b=q[O]l=L[y]f=L[G]C=Y(1044099+-375082,{x;y,G})H=v(675054+2188393,{y,G})s=1028690+28560537567649 u=f(R,s)O=l[u]i=b[O]O=L[y]l=L[G]u=N(527587+-499076)R=637358+17661392365170 f=l(u,R)b=O[f]o=i[b]i=not o c=i and 25058+7819085 or 9932991-(-50330)else d=e(d)c=-417540+2720616 E=e(E)m=nil s=e(s)T=e(T)M=e(M)W=e(W)end end end end end end end end c=#k return w(Z)end,function(q)g[q]=g[q]-(-233116+233117)if 329772+-329772==g[q]then g[q],L[q]=nil,nil end end,function(q,N)local w=X(N)local D=function(D,A,k,h)return c(q,{D;A;k,h},N,w)end return D end,{},function(q)local N,c=360572-360571,q[-487958+487959]while c do g[c],N=g[c]-(589561-589560),N+(127800-127799)if-36576+36576==g[c]then g[c],L[c]=nil,nil end c=q[N]end end,function(q,N)local w=X(N)local D=function()return c(q,{},N,w)end return D end,function(q,N)local w=X(N)local D=function(D,A,k)return c(q,{D;A;k},N,w)end return D end,function(q)for N=-891186+891187,#q,311098-311097 do g[q[N]]=g[q[N]]+(1038761-1038760)end if D then local c=D(true)local w=k(c)w[N(799559+-771076)],w[N(32637+-4156)],w[N(-625514-(-653999))]=q,G,function()return-331699-(-355783)end return c else return A({},{[N(407737-379256)]=G,[N(-780384+808867)]=q;[N(537434-508949)]=function()return-946520-(-970604)end})end end,{},function()y=(-870328+870329)+y g[y]=518162+-518161 return y end return(n(-149133+14602601,{}))(w(Z))end)(getfenv and getfenv()or _ENV,unpack or table[N(306707+-278182)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+if game.Workspace:FindFirstChild("nil") then
+game.Workspace:FindFirstChild("nil"):Destroy()
+print("Bypassed")
+end
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
+local Window = Library.CreateLib("Smilley", "RJTheme3")
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local i = 0
+local RunService = game:GetService("RunService")
+
+local Tab = Window:NewTab("Main")
+
+-- Подсекция
+local Section = Tab:NewSection("Functions")
+
+Section:NewButton("Attack Spam 2", "Spamming Your and other player attacks", function()
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+local tool = Instance.new("Tool")
+tool.Name = "Our Spammer"
+tool.RequiresHandle = true
+local handle = Instance.new("Part")
+handle.Name = "Handle"
+handle.Size = Vector3.new(1, 1, 3)
+handle.CanCollide = false
+handle.Anchored = false
+handle.Transparency = 1
+handle.Parent = tool
+local function fireRemotes(obj, pos)
+    for _, child in ipairs(obj:GetDescendants()) do
+        if child:IsA("RemoteEvent") then
+            pcall(function()
+                child:FireServer(pos.X, pos.Y, pos.Z)
+            end)
+        end
+    end
+end
+tool.Activated:Connect(function()
+    local attackPos = mouse.Hit.Position
+    local sources = { 
+        player:FindFirstChild("Backpack"), 
+        player.Character,
+        player:FindFirstChild("PlayerGui")
+    }
+    for _, source in ipairs(sources) do
+        if source then fireRemotes(source, attackPos) end
+        task.wait()
+    end
+    for _, otherPlayer in ipairs(game.Players:GetPlayers()) do
+        if otherPlayer == player then continue end
+        
+        local otherBackpack = otherPlayer:FindFirstChild("Backpack")
+        if otherBackpack then fireRemotes(otherBackpack, attackPos) end
+        
+        local otherCharacter = otherPlayer.Character
+        if otherCharacter then fireRemotes(otherCharacter, attackPos) end
+        
+        task.wait()
+    end
+    for _, obj in ipairs(workspace:GetDescendants()) do
+        if obj:IsA("Tool") then fireRemotes(obj, attackPos) end
+    end
+end)
+tool.Parent = player.Backpack
+end)
+
+Section:NewButton("Attack Spam", "spaming only your attacks", function()
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+
+local tool = Instance.new("Tool")
+tool.Name = "Self Spammer"
+tool.RequiresHandle = true
+
+local handle = Instance.new("Part")
+handle.Name = "Handle"
+handle.Size = Vector3.new(1, 1, 3)
+handle.CanCollide = false
+handle.Anchored = false
+handle.Transparency = 1
+handle.Parent = tool
+
+tool.Activated:Connect(function()
+    task.spawn(function()
+        local character = player.Character or player.CharacterAdded:Wait()
+        local humanoid = character:WaitForChild("Humanoid", 5)
+        local rootPart = character:WaitForChild("HumanoidRootPart", 5)
+        local attackPos = mouse.Hit.Position  -- Vector3
+        local sources = { player:FindFirstChild("Backpack"), character }
+        for _, source in ipairs(sources) do
+            if not source then continue end
+            for _, obj in ipairs(source:GetDescendants()) do
+                if obj:IsA("RemoteEvent") then
+                    local success, err = pcall(function()
+                        obj:FireServer(attackPos.X, attackPos.Y, attackPos.Z)
+                    end)
+                end
+            end
+            wait(0.00001)
+        end
+    end)
+end)
+
+tool.Parent = player:FindFirstChild("Backpack") or player.Backpack
+end)
+
+Section:NewSlider("Speed Hack", "Adding Speed To Your Humanoid", 200, 0, function(s) -- 200 (Макс. значение) | 0 (Мин. значение)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+
+Section:NewButton("Soul AutoFarm", "Auto collect souls", function()
+RunService.RenderStepped:Connect(function(deltaTime)
+for i , obj in pairs(game.Workspace.SoulsStorage:GetChildren()) do 
+		if obj:IsA("Model") then
+			if obj:GetChildren()[1] then
+				obj:GetChildren()[1].CFrame = player.Character.HumanoidRootPart.CFrame
+			end
+		end
+	end
+end)
+end)
+
+Section:NewButton("ShortCut (No CD)", "Click Teleport Tool", function()
+mouse = game.Players.LocalPlayer:GetMouse()
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = "ShortCut"
+tool.Activated:connect(function()
+local pos = mouse.Hit+Vector3.new(0,2.5,0)
+pos = CFrame.new(pos.X,pos.Y,pos.Z)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+end)
+
+Section:NewToggle("GodMode(BETA)", "God Mode (Noclip)", function(state)
+    local toggleEnabled = state
+    local function applyGodMode(char)
+        if not char then return end
+        
+        for _, part in pairs(char:GetChildren()) do
+            if part:IsA("BasePart") or part.Name == "Hitbox" then
+                part.CanTouch = not toggleEnabled
+            end
+        end
+    end
+    applyGodMode(player.Character)
+
+    local connection
+    if toggleEnabled then
+        connection = player.CharacterAdded:Connect(function(newChar)
+            wait(0.1)
+            if toggleEnabled then
+                applyGodMode(newChar)
+            end
+        end)
+    else
+        if connection then
+            connection:Disconnect()
+        end
+    end
+end)
+
+
+Section:NewButton("Esp", "Highlight Players", function()
+while wait(0.02) do
+for i , obj in pairs(game.Players:GetChildren()) do 
+local s = Instance.new("Highlight")
+local p = s:Clone()
+p.Parent = obj.Character
+end
+end
+end)
+
+
+
+Section:NewToggle("All Attacks", "Gives All Attacks", function(state)
+    if state then
+        for i , obj in pairs(game.ReplicatedStorage:GetDescendants()) do
+            if obj:IsA("Tool") then
+            obj.Parent = player.Backpack
+            end
+        end
+    else
+        for i , obj in pairs(player.Backpack:GetChildren()) do
+            obj.Parent = game.ReplicatedStorage
+        end
+    end
+end)
+
+local Tab = Window:NewTab("Locations")
+
+-- Подсекция
+local Section = Tab:NewSection("Functions")
+
+Section:NewButton("Admin Room", "Auto collect souls", function()
+player.Character:PivotTo(CFrame.new(-6820.34082, 371, -340.80896, 1, 0, 0, 0, 1, 0, 0, 0, 1))
+end)
+
+Section:NewButton("Last Corridor", "Auto collect souls", function()
+player.Character:PivotTo(CFrame.new(2465.5498046875, 143.39999389648438, 7824.29150390625))
+end)
+
+Section:NewButton("Waterfall", "Auto collect souls", function()
+player.Character:PivotTo(CFrame.new(383.003326, 277.724091, 3337.79224, -0.999045789, -1.04182561e-07, -0.0436746664, -1.06346825e-07, 1, 4.72307384e-08, 0.0436746664, 5.18303338e-08, -0.999045789))
+end)
+
+Section:NewButton("Snowdin", "Auto collect souls", function()
+player.Character:PivotTo(CFrame.new(4723.77197, -3952.52832, 5360.59863, 0.999936044, 1.17829984e-07, 0.0113080163, -1.17828982e-07, 1, -7.54959373e-10, -0.0113080163, -5.77500936e-10, 0.999936044))
+end)
+
+Section:NewButton("Lobby", "Auto collect souls", function()
+player.Character:PivotTo(CFrame.new(-58.5165482, -3734.00024, 0.550065577, 0.0143970484, -2.31800072e-08, 0.999896348, 8.28385183e-08, 1, 2.19896563e-08, -0.999896348, 8.25133455e-08, 0.0143970484))
+end)
+
+local Tab = Window:NewTab("Other")
+
+-- Подсекция
+local Section = Tab:NewSection("Functions")
+
+Section:NewButton("KR to LV", "Spamming Your and other player attacks", function()
+game.ReplicatedStorage.ShopPurchases.krToLvAll:FireServer()
+end)
+
+Section:NewButton("Get AntiError Skin", "Spamming Your and other player attacks", function()
+game.ReplicatedStorage.QuestComplete.AntiErrorGained:FireServer()
+end)
+
+
+
+
+
+
